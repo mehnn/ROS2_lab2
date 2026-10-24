@@ -1,0 +1,5 @@
+int32[] numbers
+---
+int64 sum
+---
+uint32 processed_count
